@@ -77,12 +77,15 @@
         }
         form button {
             background: #4400ff;
-            color: #fff;
+            color:#fff;
+            border: 1px solid #4400ff;
+            border-radius: 40px;
             padding: 10px 20px;
-            border: none;
             cursor: pointer;
         }
         form button:hover {
+            border: 5px solid #ff00ff;
+            border-radius: 40px;
             background:#ff00ff;
         }
         footer {
