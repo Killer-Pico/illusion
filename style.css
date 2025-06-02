@@ -29,6 +29,7 @@
         }
         nav ul {
             display:flex;
+            justify-content: center;
             list-style: none;
             padding: 0;
         }
@@ -37,6 +38,7 @@
             margin: 0 15px;
         }
         nav ul li a {
+            display:flex;
             padding: 10px;
             border-radius:20px;
              background-color:black;
